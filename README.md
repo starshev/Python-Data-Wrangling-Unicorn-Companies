@@ -1,13 +1,15 @@
-# Data Wrangling with Python · Unicorns
+# Data Wrangling with Python for Unicorn Companies
 
-### Project Overview
-Performed data wrangling on financial data of unicorn companies (valued over $1 billion). Focused on cleaning, structuring, and visualizing data to prepare it for deeper analysis and uncover key insights.
+### Task  
+Perform data wrangling on financial data of unicorn companies (valued over $1 billion), focusing on cleaning, structuring, and visualizing the data to prepare it for deeper analysis and uncover key insights.
 
-### Key Skills
-Data wrangling, exploratory data analysis, data cleaning, structuring, and data visualization.
+### Skills  
+Data wrangling, exploratory data analysis (EDA), data cleaning, data structuring, data visualization.
 
-### Описание проекта
-Выполнил обработку данных финансовых показателей компаний-«единорогов» (оценённых более чем в 1 миллиард долларов). Сосредоточился на очистке, структурировании и визуализации данных для подготовки их к более глубокому анализу и выявлению ключевых инсайтов.
+# Подготовка данных компаний-«единорогов» с использованием Python
 
-### Ключевые навыки
-Обработка данных, исследовательский анализ данных (EDA), очистка данных, структурирование данных и визуализация данных.
+### Задача  
+Выполнить обработку данных финансовых показателей компаний-«единорогов» (оценённых более чем в 1 миллиард долларов), с акцентом на очистку, структурирование и визуализацию данных для подготовки к дальнейшему анализу и выявлению ключевых инсайтов.
+
+### Навыки  
+Обработка данных, исследовательский анализ данных (EDA), очистка данных, структурирование данных, визуализация данных.
